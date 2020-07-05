@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CalculatorTestSuite" parallel="true">
+  <test name="CalculatorTest">
+    <classes>
+      <class name="com.calculator.test.TestCalculator"/>
+    </classes>
+  </test>
+</suite>
